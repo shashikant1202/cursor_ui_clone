@@ -83,7 +83,6 @@ This is a **partial clone** focusing on the top sections of the Cursor homepage:
 ## 🔗 Links
 
 - [Original Cursor Website](https://cursor.sh)
-
----
+- [Cloned Homepage Website](https://shashikant1202.github.io/cursor_ui_clone/)
 
 **Made for learning purposes** 
